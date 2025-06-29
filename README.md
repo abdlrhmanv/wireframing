@@ -147,3 +147,27 @@ Figma stands out as a top wireframing tool because:
 - **Cross-Platform:** Works on Windows, macOS, Linux (via browser), and even tablets.
 
 Because of these strengths, Figma is highly recommended for wireframing, prototyping, and overall UI/UX design workflows.
+
+---
+
+
+## 💡 Benefits of Wireframing from a Software Development Perspective
+
+Wireframing plays a critical role in software development by guiding the design process and enhancing team communication.
+
+- **Guides the Design Process:**  
+  Wireframes act as a roadmap, clearly outlining the structure and flow before any detailed design or coding begins. This helps developers understand what to build and reduces guesswork.
+
+- **Facilitates Clear Communication:**  
+  Wireframes provide a visual language shared among designers, developers, product managers, and stakeholders. Everyone can discuss ideas concretely, preventing misunderstandings.
+
+- **Identifies Usability and Functionality Issues Early:**  
+  By focusing on layout and interaction without distractions of color or style, wireframes highlight navigation problems or missing features, saving time and rework later.
+
+- **Supports Iterative Development:**  
+  Since wireframes are quick and inexpensive to modify, teams can iterate on ideas frequently, improving the final product’s quality.
+
+**Example:**  
+In our project, the wireframe clearly shows how users will search for properties, filter results, and book listings. This shared understanding helped the team avoid confusion and allowed frontend developers to build the UI components efficiently, aligned with design intentions.
+
+---
