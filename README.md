@@ -3,76 +3,120 @@
 ## 📖 Introduction
 
 Wireframing is a crucial step in the design process of building websites and applications.  
-It serves as a **blueprint or skeletal framework**, outlining the basic structure and layout of a user interface without delving into detailed visual elements such as colors, typography, or images.
+It acts as a **blueprint or skeletal framework**, outlining the basic structure and layout of a user interface without delving into final visual elements like colors, typography, or imagery.
 
-Wireframes focus on:
-- The **placement of elements**
-- The **navigation flow**
-- The **overall structure** of the user interface
-
-They help turn abstract ideas into clear visual representations, ensuring the design and development teams share the same vision.
+Wireframes help translate abstract ideas into tangible visuals, making it easier for design and development teams to align on a shared vision.
 
 ---
 
 ## 🚀 Importance of Wireframing in the Design Process
 
 - **Clarifies Ideas and Concepts:**  
-  Translates high-level ideas into tangible visuals early in the project lifecycle.
+  Transforms initial ideas into clear visuals, ensuring the project starts with a concrete plan.
 
 - **Facilitates Communication:**  
-  Acts as a shared reference among designers, developers, and stakeholders, making sure everyone is aligned on layout and functionality.
+  Serves as a common reference point among designers, developers, stakeholders, and clients, keeping everyone on the same page.
 
 - **Identifies Usability Issues:**  
-  By concentrating on structure and flow, wireframes reveal potential navigation or interaction problems before investing in detailed design or coding.
+  By focusing on structure and flow, wireframes can reveal navigation or interaction problems early.
 
 - **Saves Time and Resources:**  
-  Detecting issues at the wireframe stage avoids expensive revisions later in the process.
+  Catching issues at the wireframing stage avoids costly revisions during detailed design or development.
 
 - **Provides a Clear Layout and Structure:**  
-  Helps plan where content and key elements will go, supporting better hierarchy and prioritization.
+  Helps organize where content and functionality will live, supporting better hierarchy and user experience.
 
 - **Enables Easy Iterations:**  
-  Wireframes are quick and inexpensive to update, encouraging experimentation and improvement.
+  Wireframes are quick to adjust, allowing teams to explore alternatives with minimal overhead.
 
 - **Guides the Design and Development Process:**  
-  Acts as a foundation for creating high-fidelity designs and ultimately building a user-friendly, functional product.
+  Acts as a foundation for creating high-fidelity designs and ultimately building a polished, functional product.
 
 ---
 
 ## 🏗 Key Elements in a Wireframe
 
-Wireframes typically include four main elements that together shape the user experience:
+Wireframes typically incorporate four main elements that together shape the user experience:
 
 ### 1. Layout Structure
-Defines how the main components of a page or screen are arranged.
+Defines how the primary sections and components are arranged on a page or screen.
 
 **Example:**  
-A homepage might have a large hero section at the top, followed by a three-column grid for featured products. This guides the user’s attention and ensures important content is prioritized.
+A homepage might feature a large hero banner at the top, followed by a grid of featured listings. This ensures important content catches the user’s eye first.
 
 ---
 
 ### 2. Navigation
-Illustrates how users will move through the application or site, including menus, sidebars, or breadcrumb trails.
+Shows how users move through the application or site, such as through menus, sidebars, or breadcrumb links.
 
 **Example:**  
-A wireframe may show a top navigation bar with links to Home, Shop, About, and Contact. It could also include a sidebar menu on product pages for filtering items.
+A top navigation bar with links to Home, Listings, About, and Contact helps users quickly access key areas.
 
 ---
 
 ### 3. Content Placement
-Indicates where different types of content (text, images, videos) will be located on the page.
+Specifies where different content types (like text blocks, images, videos) will be positioned.
 
 **Example:**  
-In a blog post wireframe, the title and author info might appear at the top, the article body in the center, and related articles or ads in a sidebar.
+On a property details page, the photo gallery appears on the left, while booking info and pricing appear on the right, making it easy to view and book.
 
 ---
 
 ### 4. Functionality
-Outlines interactive elements and how users are expected to engage with them.
+Outlines interactive elements and user actions, like buttons, search fields, or filters.
 
 **Example:**  
-Buttons for “Add to Cart,” a search input with an icon, or interactive sliders for filtering products by price. These are sketched in the wireframe to show where and how interactions occur.
+A “Book Now” button below a price section, or a slider filter for selecting date ranges.
 
 ---
 
-By carefully considering these elements, wireframes ensure that the user interface is intuitive, the content hierarchy makes sense, and all necessary features are included before moving to high-fidelity design or development.
+## 🗂 Types of Wireframes
+
+Wireframes generally fall into two main categories based on their level of detail and purpose:
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, often grayscale sketches or basic digital layouts. They emphasize:
+
+- Structure and placement of elements
+- Navigation flow
+- Overall page hierarchy
+
+✅ **When to use:**  
+- Early stages of design to explore different ideas
+- Quickly gathering feedback from stakeholders
+- Iterating on basic user flows without distraction of visuals
+
+**Example:**  
+Hand-drawn boxes on paper, or gray-box layouts in Figma without specific UI components.
+
+---
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed, closely resembling the final design. They often include:
+
+- Precise spacing and alignment
+- Clearly defined UI components
+- Early annotations of interactions or functionality
+- Sometimes preliminary fonts or icons (but still minimal on colors)
+
+✅ **When to use:**  
+- After low-fidelity layouts are approved
+- Preparing for developer handoff
+- Usability testing on structure and flow before visual design polish
+
+**Example:**  
+Detailed Figma frames showing exact card sizes, menu layouts, and form placements.
+
+---
+
+## ❓ What Type of Wireframe is This?
+
+This wireframe is a **High-Fidelity Wireframe**.
+
+It was created to:
+
+- Provide a precise blueprint of the user interface, including structured layouts for property listings, search filters, booking summaries, and navigation bars.
+- Clearly define spacing, element hierarchy, and content flow, reducing ambiguity for developers.
+- Serve as a nearly-final reference for aligning design and functionality, before moving to full prototypes or visual styling.
+
+While it maintains a neutral wireframe palette without final brand colors or imagery, it captures detailed placement and structure, making it ideal for guiding implementation and usability validation.
