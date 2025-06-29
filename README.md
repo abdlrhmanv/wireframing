@@ -120,3 +120,30 @@ It was created to:
 - Serve as a nearly-final reference for aligning design and functionality, before moving to full prototypes or visual styling.
 
 While it maintains a neutral wireframe palette without final brand colors or imagery, it captures detailed placement and structure, making it ideal for guiding implementation and usability validation.
+
+---
+
+## 🛠 Popular Wireframing Tools
+
+There are several wireframing tools available, each with unique features suited for different stages and team needs. Some popular options include:
+
+- **Balsamiq:** Known for its sketch-like, low-fidelity wireframes that emphasize speed and simplicity.
+- **Adobe XD:** Offers wireframing, UI design, and prototyping features in one tool, popular with Adobe ecosystem users.
+- **Sketch:** A macOS app favored for UI design and wireframing with robust plugin support.
+- **Axure RP:** Powerful for detailed wireframes and complex interactive prototypes, often used in enterprise projects.
+- **Figma:** A cloud-based collaborative design tool with real-time multi-user editing, prototyping, and design handoff capabilities.
+
+---
+
+### Why Figma?
+
+Figma stands out as a top wireframing tool because:
+
+- **Collaboration:** Multiple users can work on the same file simultaneously, making teamwork seamless.
+- **Cloud-Based:** No installations or file syncing hassles; accessible anywhere with internet.
+- **Versatile:** Supports low-fidelity wireframes, high-fidelity designs, and interactive prototypes all in one platform.
+- **Component System:** Create reusable UI elements that ensure consistency and speed up design iterations.
+- **Developer Friendly:** Inspect mode, CSS code snippets, and easy asset export simplify developer handoff.
+- **Cross-Platform:** Works on Windows, macOS, Linux (via browser), and even tablets.
+
+Because of these strengths, Figma is highly recommended for wireframing, prototyping, and overall UI/UX design workflows.
